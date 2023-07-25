@@ -1,0 +1,18 @@
+especie,uniprot
+Balaenoptera_bonaerensis,Q599F3
+Bos taurus,P00396
+Canis lupus,Q9ZZ64
+Equus caballus,P48659
+Gorilla gorilla,G3SHV8
+Hippopotamus amphibius,Q9ZZY9
+Homo sapiens,P00395
+Homo neanderthalensis,A0A1B0WVA5
+Loxodonta africana,Q9TA27
+Mammut americanum,A0A7D5FYU8
+Mus musculus,P00397
+Neophoca cinerea,Q08HH3
+Pan troglodytes,Q9T9W1
+Rattus norvegicus,P05503
+Sus scrofa,O79876
+Ursus arctos,D3YM32
+Ursus spelaeus,A0A1B2VXF8
